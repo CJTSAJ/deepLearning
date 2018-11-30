@@ -15,6 +15,7 @@
 - 输出维度可变
 - 输入维度可变
 - 隐藏层节点可变
+- learning rate可变
 - 激活函数：logistic和tanh（其中任意一个）
 
 ### BP1.py
