@@ -1,0 +1,6 @@
+*.zip
+*.pyc
+*.json
+*.xml
+/BPNN/venv
+/BPNN/.idea
